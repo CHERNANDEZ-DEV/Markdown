@@ -47,6 +47,31 @@ ___
 
 ```
 
+```python
+    print("Hello World")
+```
 
+```html
+    <h1>Hello world</h1>
+```
+
+<!-- Tables -->
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+<!-- Images -->
+
+![visual studio code logo](https://logowik.com/content/uploads/images/visual-studio-code7642.jpg "VS code logo")
+
+<!-- GitHub MARKDOWN -->
+
+* [x] Task 1
+* [ ] Task 2
+* [ ] Task 3
+
+@faztweb :heart_eyes:
 
 
